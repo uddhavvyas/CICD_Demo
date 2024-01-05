@@ -1,7 +1,7 @@
 <mvc:View controllerName="project1.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="DevOps is the future">
+    <Page id="page" title="DevOps is here">
         <content />
     </Page>
 </mvc:View>
